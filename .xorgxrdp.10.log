@@ -471,3 +471,58 @@ Release Date: 2017-12-20
 [  3703.673] rdpkeybBell:
 [  3703.707] rdpkeybBell:
 [  3703.707] rdpkeybBell:
+[  4136.750] rdpkeybChangeKeyboardControl:
+[  4136.751] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.752] rdpkeybChangeKeyboardControl:
+[  4136.752] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4136.752] rdpkeybChangeKeyboardControl:
+[  4136.752] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.752] rdpkeybChangeKeyboardControl:
+[  4136.752] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.752] rdpkeybChangeKeyboardControl:
+[  4136.752] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.752] rdpkeybChangeKeyboardControl:
+[  4136.752] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.753] rdpkeybChangeKeyboardControl:
+[  4136.753] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.753] rdpkeybChangeKeyboardControl:
+[  4136.753] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4136.853] rdpInDeferredUpdateCallback:
+[  4136.853] rdpkeybChangeKeyboardControl:
+[  4136.853] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4136.853] rdpkeybChangeKeyboardControl:
+[  4136.853] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4224.301] KbdSync: toggling num lock
+[  4224.301] rdpkeybChangeKeyboardControl:
+[  4224.301] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4224.302] rdpkeybChangeKeyboardControl:
+[  4224.302] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4224.302] rdpkeybChangeKeyboardControl:
+[  4224.302] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4224.302] rdpkeybChangeKeyboardControl:
+[  4224.302] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4224.302] rdpkeybChangeKeyboardControl:
+[  4224.302] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4224.302] rdpkeybChangeKeyboardControl:
+[  4224.302] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4224.402] rdpInDeferredUpdateCallback:
+[  4224.402] rdpkeybChangeKeyboardControl:
+[  4224.402] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4224.402] rdpkeybChangeKeyboardControl:
+[  4224.402] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4288.079] rdpkeybBell:
+[  4288.080] rdpkeybBell:
+[  4288.295] rdpkeybBell:
+[  4288.295] rdpkeybBell:
+[  4288.498] rdpkeybBell:
+[  4288.498] rdpkeybBell:
+[  4458.254] rdpkeybBell:
+[  4458.255] rdpkeybBell:
+[  4487.708] rdpkeybBell:
+[  4487.708] rdpkeybBell:
+[  4487.898] rdpkeybBell:
+[  4487.900] rdpkeybBell:
+[  4488.059] rdpkeybBell:
+[  4488.060] rdpkeybBell:
+[  4559.106] rdpkeybBell:
+[  4559.107] rdpkeybBell:

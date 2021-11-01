@@ -17,7 +17,7 @@ user_pref("app.normandy.startupRolloutPrefs.doh-rollout.provider-steering.enable
 user_pref("app.normandy.startupRolloutPrefs.doh-rollout.provider-steering.provider-list", "[{ \"name\": \"comcast\", \"canonicalName\": \"doh-discovery.xfinity.com\", \"uri\": \"https://doh.xfinity.com/dns-query\" }]");
 user_pref("app.normandy.user_id", "cef4793c-74ce-4faa-b3cf-7ffe37c81a37");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1635722472);
-user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1635721872);
+user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1635725472);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1635722232);
 user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1635722112);
 user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1635721992);
@@ -40,8 +40,8 @@ user_pref("browser.newtabpage.pinned", "[{\"url\":\"https://amazon.com\",\"label
 user_pref("browser.newtabpage.storageVersion", 1);
 user_pref("browser.pageActions.persistedActions", "{\"version\":1,\"ids\":[\"bookmark\",\"pinTab\",\"bookmarkSeparator\",\"copyURL\",\"emailLink\",\"addSearchEngine\",\"sendToDevice\",\"pocket\",\"screenshots_mozilla_org\"],\"idsInUrlbar\":[\"pocket\",\"bookmark\"]}");
 user_pref("browser.pagethumbnails.storage_version", 3);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1635723652670");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1635725434670");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1635725436026");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1635727229026");
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1635721845708");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1635743445708");
 user_pref("browser.search.region", "US");

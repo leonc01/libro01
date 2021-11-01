@@ -39,3 +39,7 @@
 [20211031-18:55:45] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
 [20211031-18:55:47] [INFO ] Socket 12: AF_UNIX connection received
 [20211031-18:55:47] [INFO ] send_init_response_message:
+[20211031-19:15:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:19:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:19:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:19:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
