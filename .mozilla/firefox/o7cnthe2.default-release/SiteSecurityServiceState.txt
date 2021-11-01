@@ -19,8 +19,8 @@ shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b30
 www.google.com:HSTS	1	18932	1667260330023,1,0,2
 www.firefox.com:HSTS	0	18931	1667257845205,1,0,2
 ogs.google.com:HSTS	0	18931	1667260369655,1,0,2
-signaler-pa.clients6.google.com:HSTS	1	18932	1646611935894,1,1,2
-www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	1	18932	1667261979934,1,0,2
+signaler-pa.clients6.google.com:HSTS	1	18932	1646613094298,1,1,2
+www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	1	18932	1667262435995,1,0,2
 normandy.cdn.mozilla.net:HSTS	0	18931	1667258232215,1,0,2
 www.google-analytics.com:HSTS	0	18931	1646610730767,1,1,2
 accounts.google.com:HSTS	0	18931	1667260547003,1,1,2

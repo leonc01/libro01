@@ -43,3 +43,9 @@
 [20211031-19:19:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
 [20211031-19:19:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
 [20211031-19:19:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:27:00] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:27:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:27:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:35:10] [ERROR] clipboard_event_selection_request: unknown target x-special/mate-copied-files
+[20211031-19:36:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211031-19:37:09] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
